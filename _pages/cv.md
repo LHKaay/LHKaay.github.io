@@ -1,10 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: "Lam Hoang Khanh"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+---
+
 ---
 
 ## EDUCATION
@@ -16,7 +18,7 @@ redirect_from:
     <ul>
       <li>GPA: 4.44/4.5</li>
       <li>Graduation Thesis: Digital Twin Smart City Visualization with MoE based Personal Thermal Comfort Analysis</li>
-      <li>Supervisors: <a href='https://scholar.google.co.kr/citations?user=8fZ6XOoAAAAJ'>Prof. Suk-Hwan Lee</a>, <a href='https://sciprofiles.com/profile/1396572'>Prof. Soo-Yol Ok </a> </li>
+      <li>Supervisors: <a href='https://scholar.google.co.kr/citations?user=8fZ6XOoAAAAJ'>Prof. Suk-Hwan Lee</a> ; <a href='https://sciprofiles.com/profile/1396572'>Prof. Soo-Yol Ok </a> </li>
     </ul>
   </div>
   <div style="float: right; width: 20%; text-align: right;">
@@ -27,22 +29,31 @@ redirect_from:
 <div style="clear: both;"></div>
 
 ### [Ho Chi Minh University of Education](https://hcmue.edu.vn/en/)
-**Ho Chi Minh, Vietnam**  
-**Bachelor in Computer Science**; GPA: 3.48/4.0
-**Sep 2018 - May 2022**  
-**Graduation Thesis:** Forex Price Prediction Using Deep Learning Model  
-**Supervisors:** [Dr. Nguyen Khac Van](https://scholar.google.com/citations?user=kLtEOdwAAAAJ); [Dr. Kieu My](https://www.micc.unifi.it/people/kieu-my/)  
-Lecturers of Department of Computer Science, Faculty of Information Technology, Ho Chi Minh University of Education.
+<div style="width: 100%; line-height: 1.0;">
+  <div style="float: left; width: 80%;">
+    <i>Bachelor in Computer Science</i>
+    <ul>
+      <li>GPA: 3.48/4.0</li>
+      <li>Graduation Thesis: Forex Price Prediction Using Deep Learning Model</li>
+      <li>Supervisors: <a href='https://www.micc.unifi.it/people/kieu-my/'>Dr. Kieu My</a> ; <a href='https://scholar.google.com/citations?user=kLtEOdwAAAAJ'>Dr. Nguyen Khac Van</a></li>
+    </ul>
+  </div>
+  <div style="float: right; width: 20%; text-align: right;">
+    <b>Ho Chi Minh, VietNam</b><br>
+    Sep 2018 - May 2022
+  </div>
+</div>
+<div style="clear: both;"></div>
 
 ---
 
 ## PUBLICATIONS
 
 ### Journals:
-1. Lam, Phuoc-Dat, Bon-Hyon Gu, Hoang-Khanh Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City: Integrating IFC and CityGML with Semantic Graph for Advanced 3D City Model Visualization." *Sensors* 24, no. 12 (2024): 3761.
-2. Kim, Hyeon-Cheol, Hoang-Khanh Lam, Suk-Hwan Lee, and Soo-Yol Ok. "Early Fire Detection System by Using Automatic Synthetic Dataset Generation Model Based on Digital Twins." *Applied Sciences* 14, no. 5 (2024): 1801.
-3. Hoang-Khanh Lam, and Kahandakanaththage Maduni Pramuditha Perera. "Detecting Korean Food Using Image using Hierarchical Model." *arXiv preprint arXiv:2409.02448* (2024).
-4. Hoang-Khanh Lam, Lam, Phuoc-Dat, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City Visualization with MoE based Personal Thermal Comfort Analysis." *Remote Sensing* (under review).
+1. Hoang-Khanh Lam, Phuoc-Dat Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City Visualization with MoE-Based Personal Thermal Comfort Analysis." Sensors 25, no. 3 (2025): 705.
+2. Hoang-Khanh Lam, Phuoc-Dat Lam, Bon-Hyeon Gu, So-Yol Ok, and Suk-Hwan Lee. "Digital Twin: Smart City Platform Development with Personal Thermal Comfort." Korean Multimedia Society 27, no. 11 (2024): 1298-1313.
+3. Phuoc-Dat Lam, Bon-Hyon Gu, Hoang-Khanh Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City: Integrating IFC and CityGML with Semantic Graph for Advanced 3D City Model Visualization." *Sensors* 24, no. 12 (2024): 3761.
+4. Hyeon-Cheol Kim, Hoang-Khanh Lam, Suk-Hwan Lee, and Soo-Yol Ok. "Early Fire Detection System by Using Automatic Synthetic Dataset Generation Model Based on Digital Twins." *Applied Sciences* 14, no. 5 (2024): 1801.
 
 ### Conferences:
 1. Hoang-Khanh Lam, Lam, Phuoc-Dat, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin: Smart Cities Visualization with Thermal Analysis." *Korean Multimedia Society*. 2024. (Excellent Paper Award)
@@ -52,50 +63,79 @@ Lecturers of Department of Computer Science, Faculty of Information Technology, 
 
 ## EXPERIENCE
 
-### Dong A University - AIDT Lab  
-**Full-time**  
-**Research Assistant**  
-**Mar 2023 - Present**  
-- **Smart City Platform:** Create 3D Smart City Application using Unreal Engine.  
-- **MoE based Thermal Comfort Model:** Build Personal Thermal Comfort Model using MoE based architecture.
+### Dong A University - AIDT Lab
+<div style="width: 100%; line-height: 1.0;">
+  <div style="float: left; width: 80%;">
+    <i>Researcher</i>
+    <ul>
+      <li>Developing a 3D Smart City Platform with BIM data using Unreal Engine.</li>
+      <li>Build Personal Thermal Comfort Model using MoE based architecture.</li>
+    </ul>
+  </div>
+  <div style="float: right; width: 20%; text-align: right;">
+    <b>Busan, South Korea</b><br>
+    Mar 2023 - Present
+  </div>
+</div>
+<div style="clear: both;"></div>
 
-### KMS Technology Vietnam R&D Department  
-**Full-time**  
-**AI Engineer**  
-**Mar 2022 - Mar 2023**  
-- **Learning Django Rest Framework:** Build a drug discovery model and platform.  
-- **Google Data Analytics:** Learn Google Data Analytics courses on Coursera and build API using Django Rest Framework, then rewrite contents for application to all other staff.
+### KMS Healthcare - R&D Department
+<div style="width: 100%; line-height: 1.0;">
+  <div style="float: left; width: 80%;">
+    <i>AI Engineer</i>
+    <ul>
+      <li>Build a drug discovery model and platform.</li>
+      <li>Learn Google Data Analytics courses on Coursera and build API using Django Rest Framework, then rewrite contents for other staffs.</li>
+    </ul>
+  </div>
+  <div style="float: right; width: 20%; text-align: right;">
+    <b>Ho Chi Minh, VietNam</b><br>
+    Mar 2022 - Mar 2023
+  </div>
+</div>
+<div style="clear: both;"></div>
 
-### Freelancer.com  
-**Freelance**  
-**AI Engineer - Web Scraping & Data Processing**  
-**Jan 2022 - Present**  
-- **Benefits:** Strong Web Scraping skills, improved communication skills with foreign clients, and self-managed projects.
+### Freelancer.com
+<div style="width: 100%; line-height: 1.0;">
+  <div style="float: left; width: 80%;">
+    <i>Freelancer in AI Engineer, Web Scraping & Data Processing</i>
+    <ul>
+      <li>Strong Web Scraping skills, improved communication skills with foreign clients, and self-managed projects.</li>
+    </ul>
+  </div>
+  <div style="float: right; width: 20%; text-align: right;">
+    <b>Online</b><br>
+    Jan 2022 - Present
+  </div>
+</div>
+<div style="clear: both;"></div>
 
-### VBPO - Vietnam Business Productivity Optimization  
-**Remote**  
-**AI Engineer Intern**  
-**Oct 2021 - Mar 2022**  
-- **Working with Time Series Data:** Crawl, analyze, and preprocess Forex data.  
-- **Building RNN Model:** Build LSTM model to predict Forex rates.  
-- **Run Prediction in Real-time:** Collect, process data, and predict in real-time, delivering results through Google Sheets API.
-
-### SSSMarket  
-**Remote**  
-**Data Scientist Intern**  
-**Sep 2021 - Dec 2021**  
-- **Real Fashion Image Data from Users:** Discuss, analyze, label, and prepare data for modeling.  
-- **Improve Existing Model:** Tune existing model parameters to improve accuracy in fashion item classification.
+### VBPO - Vietnam Business Productivity Optimization
+<div style="width: 100%; line-height: 1.0;">
+  <div style="float: left; width: 80%;">
+    <i>AI Engineer Intern</i>
+    <ul>
+      <li>Working with Time Series Data: Crawl, analyze, and preprocess Forex data.</li>
+      <li>Build LSTM model to predict Forex rates.</li>
+      <li>Collect, process data, predict and visualize in real-time, delivering results through Google Sheets API.</li>
+    </ul>
+  </div>
+  <div style="float: right; width: 20%; text-align: right;">
+    <b>Remote</b><br>
+    Oct 2021 - Mar 2022
+  </div>
+</div>
+<div style="clear: both;"></div>
 
 ---
 
 ## PROGRAMMING SKILLS
 
-- **Programming Languages:** C++, Python  
-- **Frameworks:** Scikit, TensorFlow, PyTorch, Keras, Django, Selenium  
-- **Tools:** Git, Google Colab, Jupyter Notebook, CVAT, VS Code, LaTeX  
-- **Platforms:** Linux (Ubuntu 20.04), Windows  
-- **Soft Skills:** Leadership, Writing, Public Speaking, Time Management, Presentation  
+- **Programming Languages:** C++, Python.
+- **Frameworks:** PyTorch, Scikit, TensorFlow, Keras, Django, Selenium.
+- **Tools:** Git, Google Colab, Jupyter Notebook, CVAT, VS Code, LaTeX.
+- **Platforms:** Linux (Ubuntu 20.04), Windows.
+- **Soft Skills:** Leadership, Writing, Public Speaking, Time Management, Presentation.
 
 ---
 
