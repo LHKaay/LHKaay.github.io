@@ -50,14 +50,14 @@ redirect_from:
 ## PUBLICATIONS
 
 ### Journals:
-1. Hoang-Khanh Lam, Phuoc-Dat Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City Visualization with MoE-Based Personal Thermal Comfort Analysis." Sensors 25, no. 3 (2025): 705.
-2. Hoang-Khanh Lam, Phuoc-Dat Lam, Bon-Hyeon Gu, So-Yol Ok, and Suk-Hwan Lee. "Digital Twin: Smart City Platform Development with Personal Thermal Comfort." Korean Multimedia Society 27, no. 11 (2024): 1298-1313.
-3. Phuoc-Dat Lam, Bon-Hyon Gu, Hoang-Khanh Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City: Integrating IFC and CityGML with Semantic Graph for Advanced 3D City Model Visualization." *Sensors* 24, no. 12 (2024): 3761.
-4. Hyeon-Cheol Kim, Hoang-Khanh Lam, Suk-Hwan Lee, and Soo-Yol Ok. "Early Fire Detection System by Using Automatic Synthetic Dataset Generation Model Based on Digital Twins." *Applied Sciences* 14, no. 5 (2024): 1801.
+- Hoang-Khanh Lam, Phuoc-Dat Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City Visualization with MoE-Based Personal Thermal Comfort Analysis." Sensors 25, no. 3 (2025): 705.
+- Hoang-Khanh Lam, Phuoc-Dat Lam, Bon-Hyeon Gu, So-Yol Ok, and Suk-Hwan Lee. "Digital Twin: Smart City Platform Development with Personal Thermal Comfort." Korean Multimedia Society 27, no. 11 (2024): 1298-1313.
+- Phuoc-Dat Lam, Bon-Hyon Gu, Hoang-Khanh Lam, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin Smart City: Integrating IFC and CityGML with Semantic Graph for Advanced 3D City Model Visualization." *Sensors* 24, no. 12 (2024): 3761.
+- Hyeon-Cheol Kim, Hoang-Khanh Lam, Suk-Hwan Lee, and Soo-Yol Ok. "Early Fire Detection System by Using Automatic Synthetic Dataset Generation Model Based on Digital Twins." *Applied Sciences* 14, no. 5 (2024): 1801.
 
 ### Conferences:
-1. Hoang-Khanh Lam, Lam, Phuoc-Dat, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin: Smart Cities Visualization with Thermal Analysis." *Korean Multimedia Society*. 2024. (Excellent Paper Award)
-2. Hoang-Khanh Lam, Gia-Phat Tran. "Deep Learning for Forex Price Predictions." *Korean Multimedia Society*. 2023.
+- Hoang-Khanh Lam, Lam, Phuoc-Dat, Soo-Yol Ok, and Suk-Hwan Lee. "Digital Twin: Smart Cities Visualization with Thermal Analysis." *Korean Multimedia Society*. 2024. (Excellent Paper Award)
+- Hoang-Khanh Lam, Gia-Phat Tran. "Deep Learning for Forex Price Predictions." *Korean Multimedia Society*. 2023.
 
 ---
 
@@ -133,23 +133,23 @@ redirect_from:
 
 - **Programming Languages:** C++, Python.
 - **Frameworks:** PyTorch, Scikit, TensorFlow, Keras, Django, Selenium.
-- **Tools:** Git, Google Colab, Jupyter Notebook, CVAT, VS Code, LaTeX.
+- **Tools:** Git, Google Colab, Jupyter Notebook, VS Code, LaTeX.
 - **Platforms:** Linux (Ubuntu 20.04), Windows.
-- **Soft Skills:** Leadership, Writing, Public Speaking, Time Management, Presentation.
+- **Soft Skills:** Writing, Public Speaking, Time Management, Presentation.
 
 ---
 
 ## PROJECTS
 
-1. **Apply Deep Learning on Forex Market:**  
+- **Apply Deep Learning on Forex Market:**  
    Crawling, preprocessing, and building LSTM model to predict currency rates in the next timestamp.  
    **Tech:** Web Scraping, Data Analysis, Time Series Modeling.
 
-2. **Unhealthy Leaf Classification:**  
+- **Unhealthy Leaf Classification:**  
    Using CNN architecture to classify healthy or unhealthy mango leaves from a dataset collected on Ba Den Mountain.  
    **Experience:** Data collection, processing, modeling, and error analysis. Team collaboration.
 
-3. **License Plate Reader:**  
+- **License Plate Reader:**  
    Detect and recognize license plates of vehicles in Vietnam.  
    **Tasks:** Dataset collection, bounding box drawing, modeling, and error analysis.
 
