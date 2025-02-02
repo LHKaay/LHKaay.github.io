@@ -1,11 +1,13 @@
 ---
 permalink: /tracking/
-title: "Keep eyes on"
+title: "Track AI Conference & Journal Deadlines in One Place"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
+
+Stay updated on paper submission deadlines for top AI conferences as well as leading journals. Never miss a deadline for your research—bookmark this page for the latest AI conference and journal timelines!
 
 | Icon                                           | Name                                                           | Type       | URL                                                                            | Paper submission deadline |
 | --------                                       | ------                                                         | ----       | ---                                                                            | ------------------------- |
@@ -20,3 +22,5 @@ redirect_from:
 | <img src="../images/IJCV.webp" width="100">    | International Journal of Computer Vision                       | Journal    | [link.springer](https://link.springer.com/journal/11263)                       |                           |
 | <img src="../images/TPAMI.png" width="100">    | IEEE Transactions on Pattern Analysis and Machine Intelligence | Journal    | [ieeexplore.ieee](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) |                           |
 | <img src="../images/TIP.png" width="100">      | IEEE Transactions on Image Processing                          | Journal    | [ieeexplore.ieee](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=83) |                           |
+
+{% include social-share.html %}
