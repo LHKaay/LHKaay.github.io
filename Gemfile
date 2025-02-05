@@ -7,6 +7,7 @@ group :jekyll_plugins do
   gem 'jekyll-redirect-from'
   gem 'jemoji'
   gem 'webrick', '~> 1.8'
+  gem 'fiddle'
 end
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
